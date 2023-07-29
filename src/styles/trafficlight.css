@@ -1,0 +1,49 @@
+.red {
+    background-color: red;
+    width: 40px;
+    padding: 25px;
+    margin: 2px;
+    margin-top: 8px;
+    border-radius: 50%;
+}
+
+.green {
+    background-color: rgba(0, 128, 0, 0.767);
+    width: 40px;
+    padding: 25px;
+    margin: 2px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+
+.yellow {
+    background-color: #cc9622;
+    width: 40px;
+    padding: 25px;
+    margin: 2px;
+    margin-top: 0%;
+    border-radius: 50%;
+}
+
+.on {
+    box-shadow: 0 0 10px yellow
+}
+
+
+.contenedor {
+    background-color: black;
+    margin-top: 0;
+    width: 60px;
+
+}
+
+.traffictop {
+    margin-top: 5px;
+    margin-left: 373px;
+    display:block;
+    height: 70px;
+    background-color: black;
+    width: 5px;
+    padding: 4px;
+}
